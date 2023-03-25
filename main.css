@@ -1,0 +1,26 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+#above{
+    color: lightblue;
+}
+#about{
+    position: relative;
+    margin-top: -9%;
+    background-color: beige;
+}
+#fall{
+    color: chartreuse;
+}
+#summer{
+    color: darksalmon;
+}
+#time{
+    background-color: whitesmoke;
+}
+#ice{
+    color: orangered;
+}
+h2{
+    color: greenyellow;
+}
